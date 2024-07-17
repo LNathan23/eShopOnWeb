@@ -9,7 +9,7 @@ env:
   LOCATION: mexicocentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 3de6860e-6fa1-46c5-a502-1f60b03cabe5
-  WEBAPP-NAME: eshoponweb-webapp-git
+  WEBAPP-NAME: eshoponweb-webapp-nathangit
 
 
 jobs:
